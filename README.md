@@ -4,7 +4,7 @@
 - 🌿 I'm learning a lot of Flutter/Firebase
 - ✨ I’m looking to collaborate on web projects
 - 📫 How to reach me Teamn300@gmail.com
-🌌 Updated now 04/2024-
+- -🌌 Updated 04/2024-
 - 🪁 This has very quickly turned into astonishing growth
 <!---
 MikeDevWeb/MikeDevWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
